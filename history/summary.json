@@ -1,0 +1,20 @@
+[
+  {
+    "name": "sta-rioclaro",
+    "url": "https://santacasasauderc.com.br/agsi-restful/api/credenciados/1",
+    "icon": "https://favicons.githubusercontent.com/santacasasauderc.com.br",
+    "slug": "sta-rioclaro",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 774,
+    "timeDay": 774,
+    "timeWeek": 774,
+    "timeMonth": 774,
+    "timeYear": 774,
+    "dailyMinutesDown": {}
+  }
+]
