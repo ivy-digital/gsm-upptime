@@ -1,10 +1,28 @@
-owner: $OWNER # GitHub username
-repo: $REPO # GitHub repository name
-user-agent: $OWNER
+owner: smart-assistant # GitHub username
+repo: gsm-upptime # GitHub repository name
+user-agent: smart-assistant
 
 sites:
   - name: sta-rioclaro
     url: https://santacasasauderc.com.br/agsi-restful/api/credenciados/1
+  - name: sta-tereza
+    url: http://200.170.153.217:9091/agsi-restful/api/credenciados/1
+  - name: sassom
+    url: http://portal.sassom.com.br/agsi-restful-teste/api/credenciados/1
+  - name: alter
+    url: http://54.94.204.55:8081/agsi-restful/api/credenciados/1
+  - name: abas
+    url: http://52.67.80.50:8080/agsi-restful_teste/api/credenciados/1
+  - name: hsaude
+    url: http://sistemas.mataoclinicas.com.br/agsi-restful/api/credenciados/1
+  - name: sta-itapeva
+    url: http://200.232.157.44:8081/agsi-restful/api/credenciados/1
+  - name: maissaude
+    url: http://200.146.238.201:8081/agsi-restful/api/credenciados/1
+  - name: amha
+    url: http://novoatibaia.bluesolutions.com.br:8080/agsi-restful/api/credenciados/1
+  - name: intermedici
+    url: http://datacenter.agsisistemas.com.br:8080/intermedici-agsi-restful/api/credenciados/1
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -19,8 +37,7 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-  theme: light
+      href: https://github.com/smart-assistant/gsm-upptime
 
 commitMessages:
   readmeContent: ":pencil: Update summary in README [skip ci] [upptime]"
