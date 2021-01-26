@@ -1,6 +1,6 @@
-owner: silvajuliocr # GitHub username
+owner: smart-assistant # GitHub username
 repo: gsm-upptime # GitHub repository name
-user-agent: silvajuliocr
+user-agent: smart-assistant
 
 sites:
   - name: sta-rioclaro
@@ -37,7 +37,7 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/silvajuliocr/gsm-upptime
+      href: https://github.com/smart-assistant/gsm-upptime
 
 commitMessages:
   readmeContent: ":pencil: Update summary in README [skip ci] [upptime]"
