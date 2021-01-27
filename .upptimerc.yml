@@ -31,7 +31,7 @@ status-website:
   baseUrl: /gsm-upptime
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Guia Saúde + | Status
-  logoUrl: /gsm-upptime/assets/logoGuiaSaude.jpeg
+  logoUrl: /assets/logoGuiaSaude.jpeg
   theme: dark
 
 # Upptime also supports notifications, assigning issues, and more
