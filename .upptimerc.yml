@@ -10,11 +10,11 @@ sites:
   - name: sassom
     url: http://portal.sassom.com.br/agsi-restful-teste/api/credenciados/1
   - name: alter
-    url: http://54.94.204.55:8081/agsi-restful/api/credenciados/1
+    url: https://agsi.alteronline.com.br:8443/agsi-restful/api/credenciados/0
   - name: abas
-    url: http://52.67.80.50:8080/agsi-restful_teste/api/credenciados/1
+    url: http://52.67.80.50:8080/agsi-restful/api/credenciados/1
   - name: hsaude
-    url: http://sistemas.mataoclinicas.com.br/agsi-restful/api/credenciados/1
+    url: http://agsi-restful.hsaude.com.br/agsi-restful/api/credenciados/0
   - name: sta-itapeva
     url: http://200.232.157.44:8081/agsi-restful/api/credenciados/1
   - name: maissaude
