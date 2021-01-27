@@ -12,21 +12,7 @@
 <!-- prettier-ignore -->
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
-
+| <img alt="" src="https://favicons.githubusercontent.com/santacasasauderc.com.br" height="13"> [sta-rioclaro](https://santacasasauderc.com.br/agsi-restful/api/credenciados/1) | 🟥 Down | [sta-rioclaro.yml](https://github.com/smart-assistant/gsm-upptime/commits/master/history/sta-rioclaro.yml) | <details><summary><img alt="Response time graph" src="./graphs/sta-rioclaro/response-time-week.png" height="20"> 766ms</summary><br><a href="https://smart-assistant.github.io/gsm-upptime/history/sta-rioclaro"><img alt="Response time 766" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsmart-assistant%2Fgsm-upptime%2Fmaster%2Fapi%2Fsta-rioclaro%2Fresponse-time.json"></a><br><a href="https://smart-assistant.github.io/gsm-upptime/history/sta-rioclaro"><img alt="24-hour response time 766" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsmart-assistant%2Fgsm-upptime%2Fmaster%2Fapi%2Fsta-rioclaro%2Fresponse-time-day.json"></a><br><a href="https://smart-assistant.github.io/gsm-upptime/history/sta-rioclaro"><img alt="7-day response time 766" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsmart-assistant%2Fgsm-upptime%2Fmaster%2Fapi%2Fsta-rioclaro%2Fresponse-time-week.json"></a><br><a href="https://smart-assistant.github.io/gsm-upptime/history/sta-rioclaro"><img alt="30-day response time 766" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsmart-assistant%2Fgsm-upptime%2Fmaster%2Fapi%2Fsta-rioclaro%2Fresponse-time-month.json"></a><br><a href="https://smart-assistant.github.io/gsm-upptime/history/sta-rioclaro"><img alt="1-year response time 766" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsmart-assistant%2Fgsm-upptime%2Fmaster%2Fapi%2Fsta-rioclaro%2Fresponse-time-year.json"></a></details> | <details><summary><a href="https://smart-assistant.github.io/gsm-upptime/history/sta-rioclaro">100.00%</a></summary><a href="https://smart-assistant.github.io/gsm-upptime/history/sta-rioclaro"><img alt="All-time uptime 100.00%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsmart-assistant%2Fgsm-upptime%2Fmaster%2Fapi%2Fsta-rioclaro%2Fuptime.json"></a><br><a href="https://smart-assistant.github.io/gsm-upptime/history/sta-rioclaro"><img alt="24-hour uptime 100.00%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsmart-assistant%2Fgsm-upptime%2Fmaster%2Fapi%2Fsta-rioclaro%2Fuptime-day.json"></a><br><a href="https://smart-assistant.github.io/gsm-upptime/history/sta-rioclaro"><img alt="7-day uptime 100.00%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsmart-assistant%2Fgsm-upptime%2Fmaster%2Fapi%2Fsta-rioclaro%2Fuptime-week.json"></a><br><a href="https://smart-assistant.github.io/gsm-upptime/history/sta-rioclaro"><img alt="30-day uptime 100.00%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsmart-assistant%2Fgsm-upptime%2Fmaster%2Fapi%2Fsta-rioclaro%2Fuptime-month.json"></a><br><a href="https://smart-assistant.github.io/gsm-upptime/history/sta-rioclaro"><img alt="1-year uptime 100.00%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsmart-assistant%2Fgsm-upptime%2Fmaster%2Fapi%2Fsta-rioclaro%2Fuptime-year.json"></a></details>
 <!--end: status pages-->
 
-## 📄 License
-
-- Code: [MIT](./LICENSE) © [Koj](https://koj.co)
-- Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
-
-<!--start: logo-->
-<p align="center">
-  <a href="https://koj.co">
-    <img width="44" alt="Koj" src="https://kojcdn.com/v1598284251/website-v2/koj-github-footer_m089ze.svg">
-  </a>
-</p>
-<p align="center">
-  <sub>An open source project by <a href="https://koj.co">Koj</a>. <br> <a href="https://koj.co">Furnish your home in style, for as low as CHF175/month →</a></sub>
-</p>
-<!--end: logo-->
+[**Visit our status website →**](https://smart-assistant.github.io/gsm-upptime)
