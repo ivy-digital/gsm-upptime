@@ -32,7 +32,7 @@ status-website:
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Guia Saúde + | Status
   logoUrl: /assets/logoGuiaSaude.jpeg
-  theme: dark
+  theme: light
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
