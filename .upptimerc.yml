@@ -1,27 +1,27 @@
-owner: smart-assistant # GitHub username
+owner: smart-assistant-bot # GitHub username
 repo: gsm-upptime # GitHub repository name
 user-agent: smart-assistant
 
 sites:
-  - name: sta-rioclaro
+  - name: s t a r i o - c l a r o
     url: https://santacasasauderc.com.br/agsi-restful/api/credenciados/1
-  - name: sta-tereza
+  - name: s t a - t e r e z a
     url: http://200.170.153.217:9091/agsi-restful/api/credenciados/1
-  - name: sassom
+  - name: s a s s o m
     url: http://portal.sassom.com.br/agsi-restful-teste/api/credenciados/1
-  - name: alter
+  - name: a l t e r
     url: https://agsi.alteronline.com.br:8443/agsi-restful/api/credenciados/0
-  - name: abas
+  - name: a b a s
     url: http://52.67.80.50:8080/agsi-restful/api/credenciados/1
-  - name: hsaude
+  - name: h s a ú d e
     url: http://agsi-restful.hsaude.com.br/agsi-restful/api/credenciados/0
-  - name: sta-itapeva
+  - name: s t a - i t a p e v a
     url: http://200.232.157.44:8081/agsi-restful/api/credenciados/1
-  - name: maissaude
+  - name: m a i s s a ú d e
     url: http://200.146.238.201:8081/agsi-restful/api/credenciados/1
-  - name: amha
+  - name: a m h a
     url: http://novoatibaia.bluesolutions.com.br:8080/agsi-restful/api/credenciados/1
-  - name: intermedici
+  - name: i n t e r m e d i c i
     url: http://datacenter.agsisistemas.com.br:8080/intermedici-agsi-restful/api/credenciados/1
 
 status-website:
