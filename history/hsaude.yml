@@ -1,7 +1,7 @@
 url: http://agsi-restful.hsaude.com.br/agsi-restful/api/credenciados/0
-status: up
-code: 200
-responseTime: 1678
-lastUpdated: 2021-01-27T23:21:18.677Z
+status: down
+code: 503
+responseTime: 1136
+lastUpdated: 2021-01-28T16:58:46.966Z
 startTime: Tue Jan 26 2021 20:57:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
