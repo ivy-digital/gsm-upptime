@@ -1,6 +1,6 @@
 owner: smart-assistant-bot # GitHub username
 repo: gsm-upptime # GitHub repository name
-user-agent: smart-assistant
+user-agent: smart-assistant-bot
 
 sites:
   - name: s t a - r i o - c l a r o
