@@ -58,9 +58,9 @@
     "url": "https://agsi.alteronline.com.br:8443/agsi-restful/api/credenciados/0",
     "icon": "https://favicons.githubusercontent.com/agsi.alteronline.com.br",
     "slug": "a-l-t-e-r",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 770,
     "timeMonth": 770,
     "timeYear": 770,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-31": 0
+    }
   },
   {
     "name": "a b a s",
