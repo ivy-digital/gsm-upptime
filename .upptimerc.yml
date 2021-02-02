@@ -6,23 +6,23 @@ sites:
   - name: s t a - r i o - c l a r o
     url: $STA_RIOCLARO_URL
   - name: s t a - t e r e z a
-    url: http://200.170.153.217:9091/agsi-restful/api/credenciados/1
+    url: $STA_TEREZA_URL
   - name: s a s s o m
-    url: http://portal.sassom.com.br/agsi-restful-teste/api/credenciados/1
+    url: $SASSOM_URL
   - name: a l t e r
-    url: https://agsi.alteronline.com.br:8443/agsi-restful/api/credenciados/0
+    url: $ALTER_URL
   - name: a b a s
-    url: http://52.67.80.50:8080/agsi-restful/api/credenciados/1
+    url: $ABAS_URL
   - name: h s a ú d e
-    url: http://agsi-restful.hsaude.com.br/agsi-restful/api/credenciados/0
+    url: $HSAUDE_URL
   - name: s t a - i t a p e v a
-    url: http://200.232.157.44:8081/agsi-restful/api/credenciados/1
+    url: $STA_ITAPEVA_URL
   - name: m a i s s a ú d e
-    url: http://200.146.238.201:8081/agsi-restful/api/credenciados/1
+    url: $MAIS_SAUDE_URL
   - name: a m h a
-    url: http://novoatibaia.bluesolutions.com.br:8080/agsi-restful/api/credenciados/1
+    url: $AMHA_URL
   - name: i n t e r m e d i c i
-    url: http://datacenter.agsisistemas.com.br:8080/intermedici-agsi-restful/api/credenciados/1
+    url: $INTERMEDICI_URL
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
