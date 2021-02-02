@@ -1,7 +1,7 @@
-url: http://portal.sassom.com.br/agsi-restful-teste/api/credenciados/1
+url: $SASSOM_URL
 status: up
 code: 200
-responseTime: 436
-lastUpdated: 2021-02-02T20:48:15.504Z
+responseTime: 1839
+lastUpdated: 2021-02-02T22:04:18.241Z
 startTime: Thu Jan 28 2021 19:19:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
