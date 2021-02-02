@@ -22,9 +22,9 @@
     "url": "http://200.170.153.217:9091/agsi-restful/api/credenciados/1",
     "icon": "https://favicons.githubusercontent.com/200.170.153.217",
     "slug": "s-t-a-t-e-r-e-z-a",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 285,
     "timeMonth": 285,
     "timeYear": 285,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-02": 0
+    }
   },
   {
     "name": "s a s s o m",
@@ -59,13 +61,13 @@
     "icon": "https://favicons.githubusercontent.com/agsi.alteronline.com.br",
     "slug": "a-l-t-e-r",
     "status": "up",
-    "uptime": "70.17%",
-    "uptimeDay": "65.87%",
-    "uptimeWeek": "70.17%",
-    "uptimeMonth": "70.17%",
-    "uptimeYear": "70.17%",
+    "uptime": "73.29%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "73.29%",
+    "uptimeMonth": "73.29%",
+    "uptimeYear": "73.29%",
     "time": 794,
-    "timeDay": 904,
+    "timeDay": 763,
     "timeWeek": 794,
     "timeMonth": 794,
     "timeYear": 794,
