@@ -1,7 +1,7 @@
 url: http://datacenter.agsisistemas.com.br:8080/intermedici-agsi-restful/api/credenciados/1
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2021-02-02T19:19:16.435Z
+status: up
+code: 200
+responseTime: 771
+lastUpdated: 2021-02-02T19:38:43.755Z
 startTime: Thu Jan 28 2021 19:19:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
