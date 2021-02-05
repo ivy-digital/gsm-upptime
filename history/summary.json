@@ -42,19 +42,19 @@
     "url": "$SASSOM_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "s-a-s-s-o-m",
-    "status": "down",
-    "uptime": "99.08%",
-    "uptimeDay": "92.49%",
-    "uptimeWeek": "98.93%",
-    "uptimeMonth": "99.08%",
-    "uptimeYear": "99.08%",
-    "time": 2753,
-    "timeDay": 5381,
-    "timeWeek": 2789,
-    "timeMonth": 2753,
-    "timeYear": 2753,
+    "status": "up",
+    "uptime": "99.07%",
+    "uptimeDay": "92.44%",
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "99.07%",
+    "uptimeYear": "99.07%",
+    "time": 2773,
+    "timeDay": 5074,
+    "timeWeek": 2816,
+    "timeMonth": 2773,
+    "timeYear": 2773,
     "dailyMinutesDown": {
-      "2021-02-05": 108
+      "2021-02-05": 109
     }
   },
   {
