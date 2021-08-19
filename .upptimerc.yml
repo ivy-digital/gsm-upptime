@@ -23,7 +23,7 @@ sites:
     url: $AMHA_URL
   - name: i n t e r m e d i c i
     url: $INTERMEDICI_URL
-  - name: Sermed-Odonto
+  - name: S E R M E D - O D O N T O
     method: POST
     url: $SERMED_ODONTO_URL
     headers:
