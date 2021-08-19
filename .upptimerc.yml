@@ -28,7 +28,7 @@ sites:
     url: $SERMED_ODONTO_URL
     headers:
       - "Content-Type: application/json"
-    body: '{"userId":$SERMED_ODONTO_USER_ID,"accessKey":$SERMED_ODONTO_ACCESS_KEY,"GrantType":"password"}'    
+    body: {"userId":$SERMED_ODONTO_USER_ID,"accessKey":$SERMED_ODONTO_ACCESS_KEY,"GrantType":"password"}    
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
