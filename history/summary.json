@@ -69,7 +69,7 @@
     "slug": "s-a-s-s-o-m",
     "status": "up",
     "uptime": "98.77%",
-    "uptimeDay": "55.23%",
+    "uptimeDay": "61.13%",
     "uptimeWeek": "91.21%",
     "uptimeMonth": "94.60%",
     "uptimeYear": "98.77%",
@@ -396,9 +396,9 @@
     "url": "$SERMED_ODONTO_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "s-e-r-m-e-d-o-d-o-n-t-o",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "98.55%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "99.49%",
@@ -408,6 +408,7 @@
     "timeMonth": 1048,
     "timeYear": 1048,
     "dailyMinutesDown": {
+      "2021-09-11": 0,
       "2021-09-04": 146,
       "2021-08-19": 19
     }
