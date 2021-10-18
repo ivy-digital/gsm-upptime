@@ -1,7 +1,7 @@
 url: $HSAUDE_URL
-status: up
-code: 200
-responseTime: 5951
-lastUpdated: 2021-10-17T23:16:51.398Z
+status: down
+code: 503
+responseTime: 1155
+lastUpdated: 2021-10-18T00:42:17.689Z
 startTime: Thu Jan 28 2021 19:19:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
