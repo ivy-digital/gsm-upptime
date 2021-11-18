@@ -3,6 +3,8 @@ repo: gsm-upptime # GitHub repository name
 user-agent: smart-assistant
 
 sites:
+  - name: GSM API AZURE
+    url: $GSM_API_URL
   - name: s t a - r i o - c l a r o
     url: $STA_RIOCLARO_URL
   - name: s t a - t e r e z a
