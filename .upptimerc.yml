@@ -3,7 +3,7 @@ repo: gsm-upptime # GitHub repository name
 user-agent: smart-assistant
 
 sites:
-  - name: gsm api azure
+  - name: g s m - a p i - a z u r e
     url: $GSM_API_URL
   - name: s t a - r i o - c l a r o
     url: $STA_RIOCLARO_URL
@@ -25,7 +25,7 @@ sites:
     url: $AMHA_URL
   - name: i n t e r m e d i c i
     url: $INTERMEDICI_URL
-  - name: S E R M E D - O D O N T O
+  - name: s e r m e d - o d o n to
     method: POST
     url: $SERMED_ODONTO_URL
     headers:
