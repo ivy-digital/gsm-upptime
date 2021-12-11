@@ -13,6 +13,8 @@ sites:
     url: $SASSOM_URL
   - name: a l t e r
     url: $ALTER_URL
+  - name: a l t e r V1
+    url: $ALTER_URL_V1
   - name: a b a s
     url: $ABAS_URL
   - name: h s a ú d e
