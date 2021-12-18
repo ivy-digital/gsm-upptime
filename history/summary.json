@@ -31,7 +31,7 @@
     "time": 849,
     "timeDay": 674,
     "timeWeek": 853,
-    "timeMonth": 1037,
+    "timeMonth": 1046,
     "timeYear": 849,
     "dailyMinutesDown": {
       "2021-12-06": 21,
@@ -72,7 +72,7 @@
     "time": 319,
     "timeDay": 159,
     "timeWeek": 213,
-    "timeMonth": 274,
+    "timeMonth": 275,
     "timeYear": 319,
     "dailyMinutesDown": {
       "2021-12-12": 200,
@@ -108,7 +108,7 @@
     "time": 2958,
     "timeDay": 1312,
     "timeWeek": 2742,
-    "timeMonth": 3060,
+    "timeMonth": 2983,
     "timeYear": 2958,
     "dailyMinutesDown": {
       "2021-11-17": 37,
@@ -154,7 +154,7 @@
     "time": 830,
     "timeDay": 744,
     "timeWeek": 850,
-    "timeMonth": 805,
+    "timeMonth": 807,
     "timeYear": 830,
     "dailyMinutesDown": {
       "2021-11-30": 737,
@@ -187,19 +187,19 @@
     "url": "$ALTER_URL_V1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "a-l-t-e-r-v1",
-    "status": "down",
-    "uptime": "65.29%",
-    "uptimeDay": "59.57%",
-    "uptimeWeek": "64.96%",
-    "uptimeMonth": "65.29%",
-    "uptimeYear": "65.29%",
+    "status": "up",
+    "uptime": "65.10%",
+    "uptimeDay": "57.67%",
+    "uptimeWeek": "64.67%",
+    "uptimeMonth": "65.10%",
+    "uptimeYear": "65.10%",
     "time": 223,
-    "timeDay": 244,
-    "timeWeek": 222,
+    "timeDay": 246,
+    "timeWeek": 223,
     "timeMonth": 223,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2021-12-18": 460,
+      "2021-12-18": 489,
       "2021-12-17": 695,
       "2021-12-16": 705,
       "2021-12-15": 794,
@@ -221,7 +221,7 @@
     "time": 277,
     "timeDay": 259,
     "timeWeek": 306,
-    "timeMonth": 295,
+    "timeMonth": 297,
     "timeYear": 277,
     "dailyMinutesDown": {
       "2021-12-11": 791
@@ -241,7 +241,7 @@
     "time": 4003,
     "timeDay": 5252,
     "timeWeek": 5459,
-    "timeMonth": 5171,
+    "timeMonth": 5173,
     "timeYear": 4003,
     "dailyMinutesDown": {
       "2021-12-06": 40,
@@ -295,7 +295,7 @@
     "time": 412,
     "timeDay": 496,
     "timeWeek": 508,
-    "timeMonth": 427,
+    "timeMonth": 428,
     "timeYear": 412,
     "dailyMinutesDown": {
       "2021-12-18": 19,
@@ -344,7 +344,7 @@
     "time": 377,
     "timeDay": 239,
     "timeWeek": 286,
-    "timeMonth": 283,
+    "timeMonth": 284,
     "timeYear": 377,
     "dailyMinutesDown": {
       "2021-10-08": 10,
@@ -377,7 +377,7 @@
     "time": 1014,
     "timeDay": 807,
     "timeWeek": 1070,
-    "timeMonth": 936,
+    "timeMonth": 937,
     "timeYear": 1014,
     "dailyMinutesDown": {
       "2021-12-16": 21,
@@ -446,7 +446,7 @@
     "time": 621,
     "timeDay": 416,
     "timeWeek": 484,
-    "timeMonth": 1149,
+    "timeMonth": 1166,
     "timeYear": 621,
     "dailyMinutesDown": {
       "2021-12-06": 35,
