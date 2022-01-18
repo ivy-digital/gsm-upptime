@@ -150,7 +150,7 @@
     "slug": "a-l-t-e-r",
     "status": "up",
     "uptime": "98.12%",
-    "uptimeDay": "76.96%",
+    "uptimeDay": "82.98%",
     "uptimeWeek": "84.86%",
     "uptimeMonth": "94.09%",
     "uptimeYear": "98.12%",
@@ -198,25 +198,25 @@
     "url": "$ALTER_URL_V1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "a-l-t-e-r-v1",
-    "status": "up",
-    "uptime": "90.91%",
-    "uptimeDay": "42.89%",
-    "uptimeWeek": "50.99%",
-    "uptimeMonth": "88.72%",
-    "uptimeYear": "90.91%",
+    "status": "down",
+    "uptime": "90.96%",
+    "uptimeDay": "48.87%",
+    "uptimeWeek": "51.18%",
+    "uptimeMonth": "88.77%",
+    "uptimeYear": "90.96%",
     "time": 243,
-    "timeDay": 294,
-    "timeWeek": 247,
+    "timeDay": 290,
+    "timeWeek": 248,
     "timeMonth": 247,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2022-01-18": 233,
+      "2022-01-18": 234,
       "2022-01-17": 1213,
       "2022-01-16": 1042,
       "2022-01-15": 550,
       "2022-01-14": 638,
       "2022-01-13": 705,
-      "2022-01-12": 558
+      "2022-01-12": 538
     }
   },
   {
@@ -548,17 +548,19 @@
     "url": "$SERMED_ODONTO_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "s-e-r-m-e-d-o-d-o-n-to",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1206,
-    "timeDay": 1170,
-    "timeWeek": 1753,
-    "timeMonth": 1412,
-    "timeYear": 1206,
-    "dailyMinutesDown": {}
+    "time": 1199,
+    "timeDay": 974,
+    "timeWeek": 1631,
+    "timeMonth": 1392,
+    "timeYear": 1199,
+    "dailyMinutesDown": {
+      "2022-01-18": 1
+    }
   }
 ]
