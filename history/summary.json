@@ -189,8 +189,7 @@
       "2021-05-12": 41,
       "2021-04-22": 835,
       "2021-04-21": 305,
-      "2021-02-01": 495,
-      "2021-01-31": 1308
+      "2021-02-01": 495
     }
   },
   {
@@ -200,7 +199,7 @@
     "slug": "a-l-t-e-r-v1",
     "status": "up",
     "uptime": "95.76%",
-    "uptimeDay": "50.54%",
+    "uptimeDay": "51.93%",
     "uptimeWeek": "69.50%",
     "uptimeMonth": "92.98%",
     "uptimeYear": "95.76%",
@@ -245,7 +244,7 @@
     "status": "up",
     "uptime": "97.87%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "93.13%",
+    "uptimeWeek": "93.32%",
     "uptimeMonth": "90.18%",
     "uptimeYear": "97.86%",
     "time": 4137,
@@ -465,7 +464,7 @@
     "slug": "i-n-t-e-r-m-e-d-i-c-i",
     "status": "up",
     "uptime": "98.76%",
-    "uptimeDay": "64.62%",
+    "uptimeDay": "66.00%",
     "uptimeWeek": "83.91%",
     "uptimeMonth": "96.23%",
     "uptimeYear": "98.75%",
