@@ -136,8 +136,7 @@
       "2021-05-18": 137,
       "2021-03-16": 27,
       "2021-02-24": 7,
-      "2021-02-23": 23,
-      "2021-02-08": 28
+      "2021-02-23": 23
     }
   },
   {
@@ -197,18 +196,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "a-l-t-e-r-v1",
     "status": "down",
-    "uptime": "96.51%",
+    "uptime": "96.49%",
     "uptimeDay": "53.04%",
-    "uptimeWeek": "70.96%",
-    "uptimeMonth": "93.32%",
-    "uptimeYear": "96.51%",
+    "uptimeWeek": "70.75%",
+    "uptimeMonth": "93.27%",
+    "uptimeYear": "96.49%",
     "time": 237,
     "timeDay": 236,
     "timeWeek": 231,
     "timeMonth": 235,
     "timeYear": 237,
     "dailyMinutesDown": {
-      "2022-02-07": 672,
+      "2022-02-08": 18,
+      "2022-02-07": 676,
       "2022-02-06": 585,
       "2022-02-05": 799,
       "2022-02-04": 723,
