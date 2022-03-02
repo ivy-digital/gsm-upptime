@@ -477,18 +477,19 @@
     "url": "$INTERMEDICI_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "i-n-t-e-r-m-e-d-i-c-i",
-    "status": "up",
-    "uptime": "98.37%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "92.04%",
-    "uptimeYear": "98.22%",
+    "status": "down",
+    "uptime": "98.38%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "92.03%",
+    "uptimeYear": "98.23%",
     "time": 691,
     "timeDay": 785,
     "timeWeek": 1179,
     "timeMonth": 1365,
     "timeYear": 700,
     "dailyMinutesDown": {
+      "2022-03-02": 1,
       "2022-03-01": 11,
       "2022-02-28": 10,
       "2022-02-24": 20,
@@ -557,8 +558,7 @@
       "2021-06-17": 91,
       "2021-06-15": 47,
       "2021-06-14": 18,
-      "2021-06-13": 22,
-      "2021-05-30": 52
+      "2021-06-13": 22
     }
   },
   {
