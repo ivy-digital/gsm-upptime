@@ -145,7 +145,7 @@
     "status": "up",
     "uptime": "98.19%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.94%",
+    "uptimeWeek": "98.09%",
     "uptimeMonth": "98.35%",
     "uptimeYear": "98.37%",
     "time": 866,
@@ -199,12 +199,12 @@
     "url": "$ALTER_URL_V1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "a-l-t-e-r-v1",
-    "status": "up",
-    "uptime": "98.28%",
-    "uptimeDay": "56.45%",
-    "uptimeWeek": "80.08%",
-    "uptimeMonth": "95.42%",
-    "uptimeYear": "98.28%",
+    "status": "down",
+    "uptime": "98.29%",
+    "uptimeDay": "56.60%",
+    "uptimeWeek": "80.24%",
+    "uptimeMonth": "95.45%",
+    "uptimeYear": "98.29%",
     "time": 233,
     "timeDay": 236,
     "timeWeek": 229,
@@ -214,7 +214,7 @@
       "2022-03-02": 427,
       "2022-03-01": 714,
       "2022-02-28": 690,
-      "2022-02-27": 180
+      "2022-02-27": 164
     }
   },
   {
