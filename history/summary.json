@@ -143,10 +143,10 @@
     "url": "$ALTER_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "a-l-t-e-r",
-    "status": "up",
+    "status": "down",
     "uptime": "98.19%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.80%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "98.79%",
     "uptimeMonth": "98.38%",
     "uptimeYear": "98.37%",
     "time": 866,
@@ -155,6 +155,7 @@
     "timeMonth": 960,
     "timeYear": 874,
     "dailyMinutesDown": {
+      "2022-03-03": 0,
       "2022-03-01": 28,
       "2022-02-28": 11,
       "2022-02-26": 18,
@@ -200,12 +201,12 @@
     "url": "$ALTER_URL_V1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "a-l-t-e-r-v1",
-    "status": "up",
-    "uptime": "98.44%",
-    "uptimeDay": "58.54%",
-    "uptimeWeek": "81.75%",
-    "uptimeMonth": "95.80%",
-    "uptimeYear": "98.44%",
+    "status": "down",
+    "uptime": "98.49%",
+    "uptimeDay": "58.52%",
+    "uptimeWeek": "82.39%",
+    "uptimeMonth": "95.95%",
+    "uptimeYear": "98.49%",
     "time": 232,
     "timeDay": 224,
     "timeWeek": 228,
@@ -215,7 +216,7 @@
       "2022-03-03": 213,
       "2022-03-02": 602,
       "2022-03-01": 714,
-      "2022-02-28": 317
+      "2022-02-28": 252
     }
   },
   {
@@ -309,7 +310,7 @@
     "slug": "s-t-a-i-t-a-p-e-v-a",
     "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "84.11%",
+    "uptimeDay": "84.66%",
     "uptimeWeek": "95.98%",
     "uptimeMonth": "98.67%",
     "uptimeYear": "99.28%",
@@ -477,10 +478,10 @@
     "url": "$INTERMEDICI_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "i-n-t-e-r-m-e-d-i-c-i",
-    "status": "up",
+    "status": "down",
     "uptime": "98.38%",
-    "uptimeDay": "98.67%",
-    "uptimeWeek": "99.41%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.40%",
     "uptimeMonth": "91.99%",
     "uptimeYear": "98.23%",
     "time": 699,
@@ -489,6 +490,7 @@
     "timeMonth": 1444,
     "timeYear": 709,
     "dailyMinutesDown": {
+      "2022-03-03": 1,
       "2022-03-02": 19,
       "2022-03-01": 11,
       "2022-02-28": 10,
@@ -557,8 +559,7 @@
       "2021-06-23": 25,
       "2021-06-17": 91,
       "2021-06-15": 47,
-      "2021-06-14": 18,
-      "2021-06-13": 22
+      "2021-06-14": 18
     }
   },
   {
