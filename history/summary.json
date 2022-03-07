@@ -202,14 +202,14 @@
     "url": "$ALTER_URL_V1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "a-l-t-e-r-v1",
-    "status": "up",
-    "uptime": "98.31%",
-    "uptimeDay": "51.07%",
-    "uptimeWeek": "79.28%",
-    "uptimeMonth": "95.23%",
-    "uptimeYear": "98.31%",
+    "status": "down",
+    "uptime": "98.32%",
+    "uptimeDay": "51.92%",
+    "uptimeWeek": "79.37%",
+    "uptimeMonth": "95.25%",
+    "uptimeYear": "98.32%",
     "time": 233,
-    "timeDay": 215,
+    "timeDay": 213,
     "timeWeek": 238,
     "timeMonth": 226,
     "timeYear": 233,
@@ -217,7 +217,7 @@
       "2022-03-07": 514,
       "2022-03-06": 838,
       "2022-03-05": 636,
-      "2022-03-04": 96
+      "2022-03-04": 87
     }
   },
   {
