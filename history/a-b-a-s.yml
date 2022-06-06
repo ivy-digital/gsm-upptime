@@ -1,7 +1,7 @@
 url: $ABAS_URL
-status: up
-code: 200
-responseTime: 390
-lastUpdated: 2022-06-05T23:04:49.691Z
+status: down
+code: 404
+responseTime: 227
+lastUpdated: 2022-06-06T15:23:26.973Z
 startTime: Thu Jan 28 2021 19:19:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
