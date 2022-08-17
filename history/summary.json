@@ -290,12 +290,12 @@
     "slug": "a-l-t-e-r-v1",
     "status": "up",
     "uptime": "43.47%",
-    "uptimeDay": "49.37%",
-    "uptimeWeek": "9.75%",
+    "uptimeDay": "49.46%",
+    "uptimeWeek": "9.77%",
     "uptimeMonth": "0.34%",
     "uptimeYear": "43.47%",
     "time": 229,
-    "timeDay": 214,
+    "timeDay": 215,
     "timeWeek": 196,
     "timeMonth": 185,
     "timeYear": 229,
@@ -541,8 +541,7 @@
       "2021-09-02": 11,
       "2021-08-23": 11,
       "2021-08-19": 1051,
-      "2021-08-18": 1440,
-      "2021-08-17": 1440
+      "2021-08-18": 1440
     }
   },
   {
@@ -661,7 +660,7 @@
     "status": "up",
     "uptime": "96.14%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "20.21%",
+    "uptimeWeek": "20.24%",
     "uptimeMonth": "47.82%",
     "uptimeYear": "94.03%",
     "time": 1073,
