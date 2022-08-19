@@ -157,7 +157,7 @@
     "timeDay": 2001,
     "timeWeek": 1951,
     "timeMonth": 1802,
-    "timeYear": 2980,
+    "timeYear": 2985,
     "dailyMinutesDown": {
       "2022-08-05": 36,
       "2022-08-03": 18,
@@ -210,7 +210,7 @@
     "timeDay": 873,
     "timeWeek": 913,
     "timeMonth": 1031,
-    "timeYear": 930,
+    "timeYear": 931,
     "dailyMinutesDown": {
       "2022-08-19": 18,
       "2022-08-02": 11,
@@ -290,23 +290,23 @@
     "url": "$ALTER_URL_V1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "a-l-t-e-r-v1",
-    "status": "up",
-    "uptime": "99.12%",
-    "uptimeDay": "34.94%",
-    "uptimeWeek": "68.27%",
-    "uptimeMonth": "92.70%",
-    "uptimeYear": "99.12%",
+    "status": "down",
+    "uptime": "99.13%",
+    "uptimeDay": "34.88%",
+    "uptimeWeek": "68.74%",
+    "uptimeMonth": "92.81%",
+    "uptimeYear": "99.13%",
     "time": 229,
-    "timeDay": 224,
+    "timeDay": 223,
     "timeWeek": 205,
     "timeMonth": 198,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2022-08-19": 645,
+      "2022-08-19": 646,
       "2022-08-18": 728,
       "2022-08-17": 884,
       "2022-08-16": 727,
-      "2022-08-15": 212
+      "2022-08-15": 164
     }
   },
   {
@@ -421,7 +421,7 @@
     "timeDay": 420,
     "timeWeek": 439,
     "timeMonth": 423,
-    "timeYear": 536,
+    "timeYear": 537,
     "dailyMinutesDown": {
       "2022-08-16": 9,
       "2022-08-10": 362,
@@ -522,7 +522,7 @@
     "status": "up",
     "uptime": "96.16%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "58.87%",
+    "uptimeWeek": "59.02%",
     "uptimeMonth": "47.82%",
     "uptimeYear": "94.03%",
     "time": 1071,
@@ -652,7 +652,7 @@
     "timeDay": 1537,
     "timeWeek": 1502,
     "timeMonth": 1675,
-    "timeYear": 1519,
+    "timeYear": 1520,
     "dailyMinutesDown": {
       "2022-08-19": 13,
       "2022-08-18": 13,
