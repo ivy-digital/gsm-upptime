@@ -292,21 +292,21 @@
     "slug": "a-l-t-e-r-v1",
     "status": "down",
     "uptime": "99.16%",
-    "uptimeDay": "42.48%",
-    "uptimeWeek": "69.55%",
-    "uptimeMonth": "92.99%",
+    "uptimeDay": "42.04%",
+    "uptimeWeek": "69.64%",
+    "uptimeMonth": "93.01%",
     "uptimeYear": "99.16%",
     "time": 228,
-    "timeDay": 200,
-    "timeWeek": 203,
+    "timeDay": 199,
+    "timeWeek": 202,
     "timeMonth": 198,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2022-08-21": 269,
+      "2022-08-21": 277,
       "2022-08-20": 925,
       "2022-08-19": 876,
       "2022-08-18": 728,
-      "2022-08-17": 268
+      "2022-08-17": 251
     }
   },
   {
@@ -522,7 +522,7 @@
     "status": "up",
     "uptime": "96.17%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "82.60%",
+    "uptimeWeek": "82.77%",
     "uptimeMonth": "47.84%",
     "uptimeYear": "94.03%",
     "time": 1070,
