@@ -152,7 +152,7 @@
     "uptimeDay": "99.47%",
     "uptimeWeek": "97.65%",
     "uptimeMonth": "99.34%",
-    "uptimeYear": "98.86%",
+    "uptimeYear": "98.87%",
     "time": 2875,
     "timeDay": 4150,
     "timeWeek": 3822,
@@ -211,7 +211,7 @@
     "timeDay": 1306,
     "timeWeek": 944,
     "timeMonth": 937,
-    "timeYear": 932,
+    "timeYear": 933,
     "dailyMinutesDown": {
       "2022-08-22": 52,
       "2022-08-19": 18,
@@ -291,19 +291,19 @@
     "url": "$ALTER_URL_V1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "a-l-t-e-r-v1",
-    "status": "down",
-    "uptime": "99.25%",
-    "uptimeDay": "46.29%",
-    "uptimeWeek": "72.81%",
-    "uptimeMonth": "93.74%",
-    "uptimeYear": "99.25%",
+    "status": "up",
+    "uptime": "99.24%",
+    "uptimeDay": "45.43%",
+    "uptimeWeek": "72.29%",
+    "uptimeMonth": "93.62%",
+    "uptimeYear": "99.24%",
     "time": 228,
-    "timeDay": 195,
+    "timeDay": 199,
     "timeWeek": 203,
     "timeMonth": 197,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2022-08-22": 731,
+      "2022-08-22": 784,
       "2022-08-21": 793,
       "2022-08-20": 925,
       "2022-08-19": 287
@@ -324,7 +324,7 @@
     "timeDay": 346,
     "timeWeek": 315,
     "timeMonth": 314,
-    "timeYear": 321,
+    "timeYear": 322,
     "dailyMinutesDown": {
       "2022-08-10": 79,
       "2022-07-22": 13,
@@ -350,7 +350,7 @@
     "timeDay": 8489,
     "timeWeek": 7449,
     "timeMonth": 6977,
-    "timeYear": 5982,
+    "timeYear": 5984,
     "dailyMinutesDown": {
       "2022-08-22": 41,
       "2022-08-11": 15,
@@ -403,8 +403,7 @@
       "2021-10-07": 11,
       "2021-09-20": 21,
       "2021-09-06": 205,
-      "2021-09-02": 11,
-      "2021-08-23": 11
+      "2021-09-02": 11
     }
   },
   {
@@ -418,11 +417,11 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.08%",
     "uptimeYear": "97.74%",
-    "time": 497,
+    "time": 511,
     "timeDay": 444,
     "timeWeek": 422,
     "timeMonth": 423,
-    "timeYear": 536,
+    "timeYear": 537,
     "dailyMinutesDown": {
       "2022-08-20": 9,
       "2022-08-16": 9,
@@ -634,8 +633,7 @@
       "2021-09-29": 24,
       "2021-09-27": 19,
       "2021-08-25": 23,
-      "2021-08-24": 182,
-      "2021-08-23": 217
+      "2021-08-24": 182
     }
   },
   {
@@ -653,7 +651,7 @@
     "timeDay": 1352,
     "timeWeek": 1491,
     "timeMonth": 1624,
-    "timeYear": 1524,
+    "timeYear": 1526,
     "dailyMinutesDown": {
       "2022-08-22": 27,
       "2022-08-21": 13,
