@@ -59,7 +59,7 @@
     "timeDay": 909,
     "timeWeek": 888,
     "timeMonth": 865,
-    "timeYear": 883,
+    "timeYear": 880,
     "dailyMinutesDown": {
       "2022-08-09": 7,
       "2022-08-05": 9,
@@ -210,7 +210,7 @@
     "timeDay": 912,
     "timeWeek": 965,
     "timeMonth": 941,
-    "timeYear": 933,
+    "timeYear": 932,
     "dailyMinutesDown": {
       "2022-08-24": 21,
       "2022-08-22": 52,
@@ -290,11 +290,11 @@
     "url": "$ALTER_URL_V1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "a-l-t-e-r-v1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "49.90%",
-    "uptimeWeek": "72.63%",
-    "uptimeMonth": "93.70%",
+    "uptimeDay": "50.99%",
+    "uptimeWeek": "72.71%",
+    "uptimeMonth": "93.72%",
     "uptimeYear": "99.25%",
     "time": 227,
     "timeDay": 206,
@@ -305,7 +305,7 @@
       "2022-08-24": 704,
       "2022-08-23": 794,
       "2022-08-22": 784,
-      "2022-08-21": 475
+      "2022-08-21": 466
     }
   },
   {
@@ -323,7 +323,7 @@
     "timeDay": 318,
     "timeWeek": 320,
     "timeMonth": 313,
-    "timeYear": 322,
+    "timeYear": 321,
     "dailyMinutesDown": {
       "2022-08-10": 79,
       "2022-07-22": 13,
@@ -349,7 +349,7 @@
     "timeDay": 7189,
     "timeWeek": 7517,
     "timeMonth": 6960,
-    "timeYear": 5999,
+    "timeYear": 5994,
     "dailyMinutesDown": {
       "2022-08-22": 41,
       "2022-08-11": 15,
@@ -500,7 +500,7 @@
     "timeDay": 289,
     "timeWeek": 298,
     "timeMonth": 300,
-    "timeYear": 289,
+    "timeYear": 288,
     "dailyMinutesDown": {
       "2022-08-15": 16,
       "2022-07-24": 23,
@@ -528,7 +528,7 @@
     "timeDay": 303,
     "timeWeek": 306,
     "timeMonth": 995,
-    "timeYear": 1065,
+    "timeYear": 1064,
     "dailyMinutesDown": {
       "2022-08-15": 842,
       "2022-08-14": 1440,
@@ -649,7 +649,7 @@
     "timeDay": 1166,
     "timeWeek": 1436,
     "timeMonth": 1616,
-    "timeYear": 1527,
+    "timeYear": 1529,
     "dailyMinutesDown": {
       "2022-08-24": 13,
       "2022-08-23": 26,
