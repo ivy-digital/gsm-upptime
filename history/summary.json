@@ -206,7 +206,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "a-l-t-e-r",
     "status": "up",
-    "uptime": "97.45%",
+    "uptime": "97.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.28%",
     "uptimeMonth": "99.74%",
@@ -295,11 +295,11 @@
     "url": "$ALTER_URL_V1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "a-l-t-e-r-v1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "49.64%",
-    "uptimeWeek": "72.55%",
-    "uptimeMonth": "93.68%",
+    "uptimeDay": "50.33%",
+    "uptimeWeek": "72.66%",
+    "uptimeMonth": "93.71%",
     "uptimeYear": "99.26%",
     "time": 226,
     "timeDay": 202,
@@ -307,11 +307,11 @@
     "timeMonth": 199,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2022-08-28": 240,
+      "2022-08-28": 241,
       "2022-08-27": 696,
       "2022-08-26": 788,
       "2022-08-25": 793,
-      "2022-08-24": 249
+      "2022-08-24": 237
     }
   },
   {
@@ -642,11 +642,11 @@
     "url": "$INTERMEDICI_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "i-n-t-e-r-m-e-d-i-c-i",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "98.26%",
-    "uptimeWeek": "98.56%",
-    "uptimeMonth": "98.73%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "98.54%",
+    "uptimeMonth": "98.72%",
     "uptimeYear": "99.62%",
     "time": 1377,
     "timeDay": 2375,
@@ -654,6 +654,7 @@
     "timeMonth": 1681,
     "timeYear": 1542,
     "dailyMinutesDown": {
+      "2022-08-28": 2,
       "2022-08-27": 25,
       "2022-08-26": 27,
       "2022-08-25": 13,
@@ -745,8 +746,7 @@
       "2022-05-20": 23,
       "2022-05-19": 13,
       "2022-05-18": 12,
-      "2022-05-17": 94,
-      "2022-05-15": 11
+      "2022-05-17": 94
     }
   },
   {
