@@ -292,8 +292,7 @@
       "2021-10-18": 945,
       "2021-10-17": 312,
       "2021-10-09": 32,
-      "2021-09-26": 29,
-      "2021-09-07": 31
+      "2021-09-26": 29
     }
   },
   {
@@ -303,13 +302,13 @@
     "slug": "a-l-t-e-r-v1",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "55.01%",
+    "uptimeDay": "55.73%",
     "uptimeWeek": "73.22%",
     "uptimeMonth": "93.84%",
     "uptimeYear": "99.30%",
     "time": 226,
-    "timeDay": 236,
-    "timeWeek": 223,
+    "timeDay": 240,
+    "timeWeek": 224,
     "timeMonth": 207,
     "timeYear": 226,
     "dailyMinutesDown": {
@@ -529,7 +528,7 @@
     "uptime": "96.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "71.72%",
+    "uptimeMonth": "71.78%",
     "uptimeYear": "94.11%",
     "time": 1055,
     "timeDay": 368,
