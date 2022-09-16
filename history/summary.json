@@ -167,7 +167,7 @@
     "uptime": "97.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "76.08%",
+    "uptimeMonth": "76.06%",
     "uptimeYear": "97.25%",
     "time": 2863,
     "timeDay": 0,
@@ -175,7 +175,7 @@
     "timeMonth": 2800,
     "timeYear": 2950,
     "dailyMinutesDown": {
-      "2022-09-16": 941,
+      "2022-09-16": 952,
       "2022-09-15": 1440,
       "2022-09-14": 1440,
       "2022-09-13": 1440,
@@ -312,14 +312,14 @@
     "url": "$ALTER_URL_V1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "a-l-t-e-r-v1",
-    "status": "up",
-    "uptime": "99.20%",
-    "uptimeDay": "33.99%",
-    "uptimeWeek": "68.20%",
-    "uptimeMonth": "92.68%",
-    "uptimeYear": "99.20%",
+    "status": "down",
+    "uptime": "99.21%",
+    "uptimeDay": "34.63%",
+    "uptimeWeek": "68.44%",
+    "uptimeMonth": "92.74%",
+    "uptimeYear": "99.21%",
     "time": 227,
-    "timeDay": 574,
+    "timeDay": 283,
     "timeWeek": 263,
     "timeMonth": 220,
     "timeYear": 227,
@@ -328,7 +328,7 @@
       "2022-09-15": 793,
       "2022-09-14": 604,
       "2022-09-13": 720,
-      "2022-09-12": 485
+      "2022-09-12": 461
     }
   },
   {
