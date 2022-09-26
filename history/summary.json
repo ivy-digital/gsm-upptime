@@ -167,7 +167,7 @@
     "uptime": "96.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "44.84%",
+    "uptimeMonth": "44.78%",
     "uptimeYear": "94.66%",
     "time": 2862,
     "timeDay": 0,
@@ -175,7 +175,7 @@
     "timeMonth": 2292,
     "timeYear": 2906,
     "dailyMinutesDown": {
-      "2022-09-26": 462,
+      "2022-09-26": 488,
       "2022-09-25": 1440,
       "2022-09-24": 1440,
       "2022-09-23": 1440,
@@ -324,24 +324,23 @@
     "url": "$ALTER_URL_V1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "a-l-t-e-r-v1",
-    "status": "up",
-    "uptime": "99.33%",
-    "uptimeDay": "50.66%",
-    "uptimeWeek": "72.54%",
-    "uptimeMonth": "93.68%",
-    "uptimeYear": "99.33%",
-    "time": 227,
-    "timeDay": 228,
+    "status": "down",
+    "uptime": "99.34%",
+    "uptimeDay": "52.39%",
+    "uptimeWeek": "72.83%",
+    "uptimeMonth": "93.75%",
+    "uptimeYear": "99.34%",
+    "time": 226,
+    "timeDay": 226,
     "timeWeek": 212,
     "timeMonth": 226,
-    "timeYear": 227,
+    "timeYear": 226,
     "dailyMinutesDown": {
-      "2022-09-26": 120,
+      "2022-09-26": 121,
       "2022-09-25": 716,
       "2022-09-24": 592,
       "2022-09-23": 698,
-      "2022-09-22": 642,
-      "2022-09-21": 1
+      "2022-09-22": 613
     }
   },
   {
@@ -668,11 +667,11 @@
     "url": "$INTERMEDICI_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "i-n-t-e-r-m-e-d-i-c-i",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "98.61%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "98.62%",
     "uptimeYear": "99.59%",
     "time": 1453,
     "timeDay": 968,
@@ -680,6 +679,7 @@
     "timeMonth": 1609,
     "timeYear": 1598,
     "dailyMinutesDown": {
+      "2022-09-26": 1,
       "2022-09-24": 11,
       "2022-09-22": 30,
       "2022-09-21": 11,
@@ -772,8 +772,7 @@
       "2022-06-15": 50,
       "2022-06-14": 66,
       "2022-06-11": 10,
-      "2022-06-10": 12,
-      "2022-06-09": 13
+      "2022-06-10": 12
     }
   },
   {
