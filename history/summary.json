@@ -185,7 +185,7 @@
     "timeMonth": 1449,
     "timeYear": 2786,
     "dailyMinutesDown": {
-      "2022-11-16": 475,
+      "2022-11-16": 484,
       "2022-11-15": 1440,
       "2022-11-14": 1440,
       "2022-11-13": 1440,
@@ -397,7 +397,7 @@
     "slug": "a-l-t-e-r-v1",
     "status": "up",
     "uptime": "99.10%",
-    "uptimeDay": "47.54%",
+    "uptimeDay": "48.22%",
     "uptimeWeek": "56.15%",
     "uptimeMonth": "89.91%",
     "uptimeYear": "99.10%",
@@ -724,18 +724,19 @@
     "url": "$INTERMEDICI_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "i-n-t-e-r-m-e-d-i-c-i",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "94.69%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "94.68%",
     "uptimeMonth": "98.21%",
-    "uptimeYear": "99.56%",
+    "uptimeYear": "99.57%",
     "time": 1470,
     "timeDay": 821,
     "timeWeek": 2479,
     "timeMonth": 1456,
     "timeYear": 1695,
     "dailyMinutesDown": {
+      "2022-11-16": 1,
       "2022-11-14": 12,
       "2022-11-13": 12,
       "2022-11-12": 12,
@@ -827,8 +828,7 @@
       "2022-07-25": 28,
       "2022-07-24": 13,
       "2022-07-23": 12,
-      "2022-07-22": 14,
-      "2022-07-21": 25
+      "2022-07-22": 14
     }
   },
   {
