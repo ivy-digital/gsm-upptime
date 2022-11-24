@@ -61,10 +61,10 @@
     "url": "$STA_RIOCLARO_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "s-t-a-r-i-o-c-l-a-r-o",
-    "status": "up",
+    "status": "down",
     "uptime": "98.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.30%",
     "time": 895,
@@ -73,6 +73,7 @@
     "timeMonth": 871,
     "timeYear": 919,
     "dailyMinutesDown": {
+      "2022-11-24": 1,
       "2022-11-17": 18,
       "2022-11-16": 8,
       "2022-11-11": 10,
@@ -176,7 +177,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "s-a-s-s-o-m",
     "status": "down",
-    "uptime": "87.76%",
+    "uptime": "87.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -187,7 +188,7 @@
     "timeMonth": 0,
     "timeYear": 2759,
     "dailyMinutesDown": {
-      "2022-11-24": 975,
+      "2022-11-24": 1015,
       "2022-11-23": 1440,
       "2022-11-22": 1440,
       "2022-11-21": 1440,
@@ -407,11 +408,11 @@
     "url": "$ALTER_URL_V1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-l-t-e-r-v1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "48.76%",
-    "uptimeWeek": "78.18%",
-    "uptimeMonth": "94.98%",
+    "uptimeDay": "49.66%",
+    "uptimeWeek": "78.26%",
+    "uptimeMonth": "95.00%",
     "uptimeYear": "99.56%",
     "time": 220,
     "timeDay": 207,
@@ -419,10 +420,10 @@
     "timeMonth": 197,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2022-11-24": 521,
+      "2022-11-24": 522,
       "2022-11-23": 742,
       "2022-11-22": 732,
-      "2022-11-21": 207
+      "2022-11-21": 199
     }
   },
   {
