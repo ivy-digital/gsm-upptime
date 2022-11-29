@@ -63,7 +63,7 @@
     "slug": "s-t-a-r-i-o-c-l-a-r-o",
     "status": "up",
     "uptime": "98.75%",
-    "uptimeDay": "39.29%",
+    "uptimeDay": "40.28%",
     "uptimeWeek": "76.92%",
     "uptimeMonth": "94.59%",
     "uptimeYear": "98.87%",
@@ -189,7 +189,8 @@
     "timeMonth": 0,
     "timeYear": 2760,
     "dailyMinutesDown": {
-      "2022-11-28": 1427,
+      "2022-11-29": 1,
+      "2022-11-28": 1440,
       "2022-11-27": 1440,
       "2022-11-26": 1440,
       "2022-11-25": 1440,
@@ -416,9 +417,9 @@
     "slug": "a-l-t-e-r-v1",
     "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "48.12%",
-    "uptimeWeek": "80.80%",
-    "uptimeMonth": "95.58%",
+    "uptimeDay": "47.12%",
+    "uptimeWeek": "80.66%",
+    "uptimeMonth": "95.55%",
     "uptimeYear": "99.62%",
     "time": 219,
     "timeDay": 196,
@@ -426,7 +427,8 @@
     "timeMonth": 196,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2022-11-28": 750,
+      "2022-11-29": 1,
+      "2022-11-28": 763,
       "2022-11-27": 691,
       "2022-11-26": 497
     }
