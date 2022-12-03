@@ -14,7 +14,7 @@
     "timeDay": 2532,
     "timeWeek": 2428,
     "timeMonth": 2216,
-    "timeYear": 2633,
+    "timeYear": 2632,
     "dailyMinutesDown": {
       "2022-11-08": 14,
       "2022-11-02": 9,
@@ -131,7 +131,7 @@
     "timeDay": 265,
     "timeWeek": 263,
     "timeMonth": 280,
-    "timeYear": 264,
+    "timeYear": 263,
     "dailyMinutesDown": {
       "2022-11-20": 823,
       "2022-11-08": 14,
@@ -187,9 +187,9 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2762,
+    "timeYear": 2756,
     "dailyMinutesDown": {
-      "2022-12-03": 1393,
+      "2022-12-03": 1404,
       "2022-12-02": 1440,
       "2022-12-01": 1440,
       "2022-11-30": 1440,
@@ -420,11 +420,11 @@
     "url": "$ALTER_URL_V1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-l-t-e-r-v1",
-    "status": "down",
+    "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "47.06%",
-    "uptimeWeek": "78.55%",
-    "uptimeMonth": "95.06%",
+    "uptimeDay": "46.36%",
+    "uptimeWeek": "78.45%",
+    "uptimeMonth": "95.04%",
     "uptimeYear": "99.58%",
     "time": 218,
     "timeDay": 204,
@@ -432,7 +432,7 @@
     "timeMonth": 195,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2022-12-03": 746,
+      "2022-12-03": 756,
       "2022-12-02": 778,
       "2022-12-01": 636
     }
@@ -480,7 +480,7 @@
     "timeDay": 7880,
     "timeWeek": 10341,
     "timeMonth": 8225,
-    "timeYear": 6552,
+    "timeYear": 6553,
     "dailyMinutesDown": {
       "2022-11-27": 12,
       "2022-11-13": 16,
@@ -617,7 +617,7 @@
     "timeDay": 370,
     "timeWeek": 348,
     "timeMonth": 333,
-    "timeYear": 301,
+    "timeYear": 300,
     "dailyMinutesDown": {
       "2022-11-07": 147,
       "2022-10-24": 292,
@@ -651,7 +651,7 @@
     "timeDay": 363,
     "timeWeek": 354,
     "timeMonth": 321,
-    "timeYear": 911,
+    "timeYear": 910,
     "dailyMinutesDown": {
       "2022-11-18": 7,
       "2022-11-03": 8,
@@ -756,7 +756,7 @@
     "timeDay": 1428,
     "timeWeek": 1409,
     "timeMonth": 1566,
-    "timeYear": 1687,
+    "timeYear": 1689,
     "dailyMinutesDown": {
       "2022-12-03": 10,
       "2022-12-02": 12,
