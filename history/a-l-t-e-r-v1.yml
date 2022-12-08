@@ -1,7 +1,7 @@
 url: $ALTER_URL_V1
-status: down
-code: 400
-responseTime: 118
-lastUpdated: 2022-12-08T19:43:05.080Z
+status: up
+code: 200
+responseTime: 227
+lastUpdated: 2022-12-08T20:21:15.774Z
 startTime: Sat Dec 11 2021 16:22:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
