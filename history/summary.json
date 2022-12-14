@@ -186,7 +186,7 @@
     "timeMonth": 0,
     "timeYear": 2746,
     "dailyMinutesDown": {
-      "2022-12-14": 693,
+      "2022-12-14": 701,
       "2022-12-13": 1440,
       "2022-12-12": 1440,
       "2022-12-11": 1440,
@@ -325,7 +325,7 @@
     "time": 974,
     "timeDay": 759,
     "timeWeek": 962,
-    "timeMonth": 1503,
+    "timeMonth": 990,
     "timeYear": 1017,
     "dailyMinutesDown": {
       "2022-12-12": 32,
@@ -431,22 +431,22 @@
     "url": "$ALTER_URL_V1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-l-t-e-r-v1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "53.96%",
-    "uptimeWeek": "76.68%",
-    "uptimeMonth": "94.63%",
-    "uptimeYear": "99.55%",
+    "uptimeDay": "54.47%",
+    "uptimeWeek": "76.94%",
+    "uptimeMonth": "94.69%",
+    "uptimeYear": "99.56%",
     "time": 217,
-    "timeDay": 233,
+    "timeDay": 232,
     "timeWeek": 200,
     "timeMonth": 196,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2022-12-14": 365,
+      "2022-12-14": 366,
       "2022-12-13": 721,
       "2022-12-12": 867,
-      "2022-12-11": 398
+      "2022-12-11": 371
     }
   },
   {
