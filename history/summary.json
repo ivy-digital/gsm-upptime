@@ -188,7 +188,8 @@
     "timeMonth": 0,
     "timeYear": 2732,
     "dailyMinutesDown": {
-      "2022-12-16": 1428,
+      "2022-12-17": 1,
+      "2022-12-16": 1440,
       "2022-12-15": 1440,
       "2022-12-14": 1440,
       "2022-12-13": 1440,
@@ -438,17 +439,18 @@
     "slug": "a-l-t-e-r-v1",
     "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "55.55%",
-    "uptimeWeek": "79.63%",
-    "uptimeMonth": "95.31%",
+    "uptimeDay": "55.05%",
+    "uptimeWeek": "79.51%",
+    "uptimeMonth": "95.28%",
     "uptimeYear": "99.61%",
     "time": 217,
-    "timeDay": 193,
+    "timeDay": 194,
     "timeWeek": 198,
     "timeMonth": 196,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2022-12-16": 637,
+      "2022-12-17": 1,
+      "2022-12-16": 648,
       "2022-12-15": 720,
       "2022-12-14": 697
     }
