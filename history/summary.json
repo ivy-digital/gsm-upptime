@@ -198,7 +198,7 @@
     "timeMonth": 0,
     "timeYear": 2642,
     "dailyMinutesDown": {
-      "2023-01-06": 1140,
+      "2023-01-06": 1152,
       "2023-01-05": 1440,
       "2023-01-04": 1440,
       "2023-01-03": 1440,
@@ -465,11 +465,11 @@
     "url": "$ALTER_URL_V1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-l-t-e-r-v1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "49.38%",
-    "uptimeWeek": "78.10%",
-    "uptimeMonth": "94.96%",
+    "uptimeDay": "49.28%",
+    "uptimeWeek": "78.29%",
+    "uptimeMonth": "95.01%",
     "uptimeYear": "99.58%",
     "time": 213,
     "timeDay": 261,
@@ -477,10 +477,10 @@
     "timeMonth": 198,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2023-01-06": 566,
+      "2023-01-06": 568,
       "2023-01-05": 706,
       "2023-01-04": 789,
-      "2023-01-03": 148
+      "2023-01-03": 126
     }
   },
   {
@@ -916,11 +916,11 @@
     "url": "$SERMED_ODONTO_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "s-e-r-m-e-d-o-d-o-n-to",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "67.67%",
-    "uptimeWeek": "95.38%",
-    "uptimeMonth": "98.92%",
+    "uptimeDay": "67.52%",
+    "uptimeWeek": "95.36%",
+    "uptimeMonth": "98.91%",
     "uptimeYear": "99.78%",
     "time": 1050,
     "timeDay": 1813,
@@ -928,7 +928,7 @@
     "timeMonth": 986,
     "timeYear": 1040,
     "dailyMinutesDown": {
-      "2023-01-06": 182,
+      "2023-01-06": 184,
       "2023-01-05": 284,
       "2022-12-13": 9,
       "2022-11-17": 15,
