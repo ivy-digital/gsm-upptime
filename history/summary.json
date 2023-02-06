@@ -224,7 +224,7 @@
     "timeMonth": 0,
     "timeYear": 2522,
     "dailyMinutesDown": {
-      "2023-02-06": 475,
+      "2023-02-06": 484,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
@@ -410,7 +410,7 @@
     "status": "up",
     "uptime": "98.17%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.18%",
+    "uptimeWeek": "99.22%",
     "uptimeMonth": "93.65%",
     "uptimeYear": "96.31%",
     "time": 987,
@@ -525,22 +525,22 @@
     "url": "$ALTER_URL_V1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-l-t-e-r-v1",
-    "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "43.80%",
-    "uptimeWeek": "78.93%",
-    "uptimeMonth": "95.15%",
+    "status": "down",
+    "uptime": "99.66%",
+    "uptimeDay": "43.81%",
+    "uptimeWeek": "79.22%",
+    "uptimeMonth": "95.22%",
     "uptimeYear": "99.60%",
     "time": 211,
-    "timeDay": 245,
+    "timeDay": 244,
     "timeWeek": 227,
     "timeMonth": 215,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2023-02-06": 300,
+      "2023-02-06": 301,
       "2023-02-05": 712,
       "2023-02-04": 800,
-      "2023-02-03": 316
+      "2023-02-03": 286
     }
   },
   {
@@ -867,18 +867,19 @@
     "url": "$INTERMEDICI_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "i-n-t-e-r-m-e-d-i-c-i",
-    "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "98.40%",
-    "uptimeWeek": "98.57%",
+    "status": "down",
+    "uptime": "99.81%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "98.61%",
     "uptimeMonth": "98.58%",
-    "uptimeYear": "99.60%",
-    "time": 1591,
+    "uptimeYear": "99.61%",
+    "time": 1592,
     "timeDay": 1278,
     "timeWeek": 1580,
     "timeMonth": 1655,
     "timeYear": 1786,
     "dailyMinutesDown": {
+      "2023-02-06": 1,
       "2023-02-05": 23,
       "2023-02-04": 22,
       "2023-02-03": 13,
@@ -973,7 +974,7 @@
       "2022-10-16": 12,
       "2022-10-14": 11,
       "2022-10-12": 12,
-      "2022-10-11": 25
+      "2022-10-11": 12
     }
   },
   {
