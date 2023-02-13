@@ -225,7 +225,8 @@
     "timeMonth": 0,
     "timeYear": 2482,
     "dailyMinutesDown": {
-      "2023-02-12": 1434,
+      "2023-02-13": 1,
+      "2023-02-12": 1440,
       "2023-02-11": 1440,
       "2023-02-10": 1440,
       "2023-02-09": 1440,
@@ -536,17 +537,18 @@
     "slug": "a-l-t-e-r-v1",
     "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "54.42%",
-    "uptimeWeek": "82.32%",
-    "uptimeMonth": "95.93%",
+    "uptimeDay": "54.32%",
+    "uptimeWeek": "82.26%",
+    "uptimeMonth": "95.92%",
     "uptimeYear": "99.66%",
     "time": 211,
-    "timeDay": 220,
+    "timeDay": 222,
     "timeWeek": 218,
     "timeMonth": 219,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2023-02-12": 653,
+      "2023-02-13": 1,
+      "2023-02-12": 658,
       "2023-02-11": 703,
       "2023-02-10": 425
     }
