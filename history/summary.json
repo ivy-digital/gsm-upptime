@@ -218,14 +218,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "56.36%",
+    "uptimeYear": "56.35%",
     "time": 2793,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2483,
     "dailyMinutesDown": {
-      "2023-02-14": 451,
+      "2023-02-14": 485,
       "2023-02-13": 1440,
       "2023-02-12": 1440,
       "2023-02-11": 1440,
@@ -419,7 +419,7 @@
     "status": "up",
     "uptime": "98.19%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.58%",
+    "uptimeWeek": "99.63%",
     "uptimeMonth": "93.78%",
     "uptimeYear": "96.30%",
     "time": 993,
@@ -536,22 +536,22 @@
     "url": "$ALTER_URL_V1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-l-t-e-r-v1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "50.54%",
-    "uptimeWeek": "81.76%",
-    "uptimeMonth": "95.80%",
+    "uptimeDay": "52.27%",
+    "uptimeWeek": "81.83%",
+    "uptimeMonth": "95.82%",
     "uptimeYear": "99.65%",
     "time": 211,
-    "timeDay": 224,
+    "timeDay": 222,
     "timeWeek": 219,
     "timeMonth": 219,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2023-02-14": 247,
+      "2023-02-14": 248,
       "2023-02-13": 639,
       "2023-02-12": 658,
-      "2023-02-11": 293
+      "2023-02-11": 285
     }
   },
   {
@@ -882,10 +882,10 @@
     "url": "$INTERMEDICI_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "i-n-t-e-r-m-e-d-i-c-i",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "98.89%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "98.93%",
     "uptimeMonth": "98.60%",
     "uptimeYear": "99.60%",
     "time": 1606,
@@ -894,6 +894,7 @@
     "timeMonth": 1692,
     "timeYear": 1795,
     "dailyMinutesDown": {
+      "2023-02-14": 2,
       "2023-02-13": 13,
       "2023-02-12": 13,
       "2023-02-11": 12,
@@ -990,7 +991,7 @@
       "2022-10-23": 10,
       "2022-10-21": 14,
       "2022-10-20": 13,
-      "2022-10-19": 40
+      "2022-10-19": 31
     }
   },
   {
