@@ -226,7 +226,7 @@
     "timeMonth": 0,
     "timeYear": 2484,
     "dailyMinutesDown": {
-      "2023-02-16": 1425,
+      "2023-02-16": 1433,
       "2023-02-15": 1440,
       "2023-02-14": 1440,
       "2023-02-13": 1440,
@@ -539,22 +539,22 @@
     "url": "$ALTER_URL_V1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-l-t-e-r-v1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "51.25%",
-    "uptimeWeek": "76.84%",
-    "uptimeMonth": "94.67%",
+    "uptimeDay": "51.48%",
+    "uptimeWeek": "76.93%",
+    "uptimeMonth": "94.69%",
     "uptimeYear": "99.56%",
     "time": 211,
-    "timeDay": 256,
-    "timeWeek": 226,
+    "timeDay": 255,
+    "timeWeek": 225,
     "timeMonth": 221,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2023-02-16": 696,
+      "2023-02-16": 697,
       "2023-02-15": 804,
       "2023-02-14": 759,
-      "2023-02-13": 78
+      "2023-02-13": 68
     }
   },
   {
@@ -659,7 +659,7 @@
     "slug": "s-t-a-i-t-a-p-e-v-a",
     "status": "up",
     "uptime": "98.67%",
-    "uptimeDay": "94.37%",
+    "uptimeDay": "94.93%",
     "uptimeWeek": "98.13%",
     "uptimeMonth": "99.48%",
     "uptimeYear": "97.79%",
@@ -885,19 +885,19 @@
     "url": "$INTERMEDICI_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "i-n-t-e-r-m-e-d-i-c-i",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "97.89%",
-    "uptimeWeek": "98.64%",
+    "uptimeDay": "97.78%",
+    "uptimeWeek": "98.63%",
     "uptimeMonth": "98.56%",
     "uptimeYear": "99.60%",
-    "time": 1681,
+    "time": 1683,
     "timeDay": 14302,
     "timeWeek": 4821,
     "timeMonth": 2486,
     "timeYear": 1879,
     "dailyMinutesDown": {
-      "2023-02-16": 31,
+      "2023-02-16": 33,
       "2023-02-15": 19,
       "2023-02-14": 25,
       "2023-02-13": 13,
@@ -990,8 +990,7 @@
       "2022-11-06": 12,
       "2022-11-03": 12,
       "2022-11-02": 59,
-      "2022-11-01": 12,
-      "2022-10-26": 10
+      "2022-11-01": 12
     }
   },
   {
