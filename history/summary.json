@@ -226,7 +226,8 @@
     "timeMonth": 0,
     "timeYear": 2354,
     "dailyMinutesDown": {
-      "2023-03-04": 1438,
+      "2023-03-05": 1,
+      "2023-03-04": 1440,
       "2023-03-03": 1440,
       "2023-03-02": 1440,
       "2023-03-01": 1440,
@@ -551,13 +552,13 @@
     "slug": "a-l-t-e-r-v1",
     "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "46.36%",
+    "uptimeDay": "46.58%",
     "uptimeWeek": "65.92%",
     "uptimeMonth": "92.16%",
     "uptimeYear": "99.35%",
     "time": 210,
     "timeDay": 203,
-    "timeWeek": 203,
+    "timeWeek": 204,
     "timeMonth": 216,
     "timeYear": 210,
     "dailyMinutesDown": {
@@ -669,9 +670,9 @@
     "slug": "s-t-a-i-t-a-p-e-v-a",
     "status": "down",
     "uptime": "98.73%",
-    "uptimeDay": "98.77%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.40%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.39%",
     "uptimeYear": "97.94%",
     "time": 566,
     "timeDay": 402,
@@ -679,7 +680,8 @@
     "timeMonth": 489,
     "timeYear": 548,
     "dailyMinutesDown": {
-      "2023-03-04": 18,
+      "2023-03-05": 2,
+      "2023-03-04": 19,
       "2023-03-02": 8,
       "2023-02-24": 6,
       "2023-02-22": 36,
@@ -882,8 +884,7 @@
       "2022-03-14": 11,
       "2022-03-11": 7,
       "2022-03-08": 8,
-      "2022-03-07": 8,
-      "2022-03-05": 10
+      "2022-03-07": 8
     }
   },
   {
