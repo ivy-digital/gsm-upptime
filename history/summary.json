@@ -227,7 +227,7 @@
     "timeMonth": 0,
     "timeYear": 2342,
     "dailyMinutesDown": {
-      "2023-03-07": 1139,
+      "2023-03-07": 1150,
       "2023-03-06": 1440,
       "2023-03-05": 1440,
       "2023-03-04": 1440,
@@ -436,18 +436,19 @@
     "url": "$ALTER_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-l-t-e-r",
-    "status": "up",
+    "status": "down",
     "uptime": "98.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "87.19%",
-    "uptimeMonth": "96.17%",
-    "uptimeYear": "96.76%",
-    "time": 1020,
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "87.18%",
+    "uptimeMonth": "96.16%",
+    "uptimeYear": "96.77%",
+    "time": 1021,
     "timeDay": 663,
     "timeWeek": 1144,
     "timeMonth": 1218,
     "timeYear": 1028,
     "dailyMinutesDown": {
+      "2023-03-07": 1,
       "2023-03-06": 11,
       "2023-03-04": 29,
       "2023-03-03": 902,
@@ -544,8 +545,7 @@
       "2022-05-06": 40,
       "2022-05-03": 150,
       "2022-05-02": 44,
-      "2022-04-28": 6,
-      "2022-04-24": 11
+      "2022-04-28": 6
     }
   },
   {
@@ -553,11 +553,11 @@
     "url": "$ALTER_URL_V1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-l-t-e-r-v1",
-    "status": "up",
-    "uptime": "99.63%",
-    "uptimeDay": "37.45%",
-    "uptimeWeek": "76.37%",
-    "uptimeMonth": "94.56%",
+    "status": "down",
+    "uptime": "99.64%",
+    "uptimeDay": "38.16%",
+    "uptimeWeek": "76.54%",
+    "uptimeMonth": "94.60%",
     "uptimeYear": "99.55%",
     "time": 209,
     "timeDay": 189,
@@ -565,10 +565,10 @@
     "timeMonth": 213,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2023-03-07": 709,
+      "2023-03-07": 710,
       "2023-03-06": 747,
       "2023-03-05": 753,
-      "2023-03-04": 174
+      "2023-03-04": 156
     }
   },
   {
@@ -606,7 +606,7 @@
     "uptime": "98.86%",
     "uptimeDay": "92.10%",
     "uptimeWeek": "98.02%",
-    "uptimeMonth": "99.38%",
+    "uptimeMonth": "99.41%",
     "uptimeYear": "99.61%",
     "time": 6835,
     "timeDay": 9519,
