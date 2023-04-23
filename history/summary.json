@@ -223,7 +223,7 @@
     "timeMonth": 7419,
     "timeYear": 1998,
     "dailyMinutesDown": {
-      "2023-04-23": 476,
+      "2023-04-23": 486,
       "2023-04-22": 1440,
       "2023-04-21": 1440,
       "2023-04-20": 1440,
@@ -476,7 +476,7 @@
     "uptime": "94.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
-    "uptimeMonth": "39.22%",
+    "uptimeMonth": "39.24%",
     "uptimeYear": "87.45%",
     "time": 1006,
     "timeDay": 878,
@@ -623,11 +623,11 @@
     "url": "$ALTER_URL_V1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-l-t-e-r-v1",
-    "status": "down",
+    "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "50.07%",
-    "uptimeWeek": "81.12%",
-    "uptimeMonth": "95.66%",
+    "uptimeDay": "49.45%",
+    "uptimeWeek": "81.03%",
+    "uptimeMonth": "95.64%",
     "uptimeYear": "99.64%",
     "time": 207,
     "timeDay": 193,
@@ -635,7 +635,7 @@
     "timeMonth": 202,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2023-04-23": 232,
+      "2023-04-23": 241,
       "2023-04-22": 791,
       "2023-04-21": 667,
       "2023-04-20": 215
@@ -950,11 +950,11 @@
     "url": "$INTERMEDICI_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "i-n-t-e-r-m-e-d-i-c-i",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "98.37%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "98.36%",
     "uptimeYear": "99.50%",
     "time": 1832,
     "timeDay": 2735,
@@ -962,6 +962,7 @@
     "timeMonth": 1725,
     "timeYear": 1752,
     "dailyMinutesDown": {
+      "2023-04-23": 2,
       "2023-04-21": 11,
       "2023-04-20": 11,
       "2023-04-17": 6,
@@ -1046,7 +1047,7 @@
       "2023-01-27": 24,
       "2023-01-26": 23,
       "2023-01-25": 22,
-      "2023-01-24": 19
+      "2023-01-24": 7
     }
   },
   {
