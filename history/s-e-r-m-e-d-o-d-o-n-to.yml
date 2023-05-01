@@ -1,7 +1,7 @@
 url: $SERMED_ODONTO_URL
-status: down
-code: 500
-responseTime: 15739
-lastUpdated: 2023-05-01T03:21:38.069Z
+status: up
+code: 200
+responseTime: 3933
+lastUpdated: 2023-05-01T03:53:06.608Z
 startTime: Thu Nov 18 2021 18:56:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
