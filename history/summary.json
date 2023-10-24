@@ -170,7 +170,7 @@
     "timeMonth": 0,
     "timeYear": 1890,
     "dailyMinutesDown": {
-      "2023-10-24": 457,
+      "2023-10-24": 465,
       "2023-10-23": 1440,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
@@ -540,7 +540,7 @@
     "uptime": "98.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "45.28%",
+    "uptimeMonth": "45.26%",
     "uptimeYear": "95.36%",
     "time": 360,
     "timeDay": 0,
@@ -548,7 +548,7 @@
     "timeMonth": 312,
     "timeYear": 355,
     "dailyMinutesDown": {
-      "2023-10-24": 457,
+      "2023-10-24": 465,
       "2023-10-23": 1440,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
@@ -815,10 +815,10 @@
     "url": "$INTERMEDICI_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "i-n-t-e-r-m-e-d-i-c-i",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "90.85%",
-    "uptimeWeek": "98.25%",
+    "uptimeDay": "90.77%",
+    "uptimeWeek": "98.24%",
     "uptimeMonth": "98.79%",
     "uptimeYear": "99.72%",
     "time": 1737,
@@ -827,7 +827,7 @@
     "timeMonth": 2981,
     "timeYear": 1777,
     "dailyMinutesDown": {
-      "2023-10-24": 120,
+      "2023-10-24": 121,
       "2023-10-23": 11,
       "2023-10-21": 11,
       "2023-10-19": 12,
@@ -906,8 +906,7 @@
       "2023-07-31": 12,
       "2023-07-30": 11,
       "2023-07-28": 11,
-      "2023-07-27": 11,
-      "2023-07-25": 12
+      "2023-07-27": 11
     }
   },
   {
@@ -920,14 +919,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "67.90%",
+    "uptimeYear": "67.89%",
     "time": 1297,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1480,
     "dailyMinutesDown": {
-      "2023-10-24": 458,
+      "2023-10-24": 466,
       "2023-10-23": 1440,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
