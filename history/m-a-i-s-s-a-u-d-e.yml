@@ -1,7 +1,7 @@
 url: $MAIS_SAUDE_URL
-status: up
-code: 200
-responseTime: 454
-lastUpdated: 2023-11-03T12:51:19.746Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2023-11-03T13:01:53.653Z
 startTime: 2021-01-28T19:19:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
