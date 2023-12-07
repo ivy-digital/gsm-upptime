@@ -1,7 +1,7 @@
 url: $GSM_API_URL
-status: up
-code: 200
-responseTime: 1718
-lastUpdated: 2023-12-07T23:28:20.935Z
+status: down
+code: 503
+responseTime: 1823
+lastUpdated: 2023-12-07T23:36:26.085Z
 startTime: 2021-11-18T18:56:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
