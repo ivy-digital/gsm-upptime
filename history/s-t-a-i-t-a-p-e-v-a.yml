@@ -1,7 +1,7 @@
 url: $STA_ITAPEVA_URL
-status: up
-code: 200
-responseTime: 6147
-lastUpdated: 2024-02-06T13:12:15.796Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-02-06T13:55:46.606Z
 startTime: 2021-01-28T19:19:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
