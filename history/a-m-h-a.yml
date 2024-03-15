@@ -1,7 +1,7 @@
 url: $AMHA_URL
-status: up
-code: 200
-responseTime: 361
-lastUpdated: 2024-03-15T17:59:13.782Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-03-15T18:10:48.752Z
 startTime: 2021-01-28T19:19:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
