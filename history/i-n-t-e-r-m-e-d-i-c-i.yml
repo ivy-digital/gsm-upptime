@@ -1,7 +1,7 @@
 url: $INTERMEDICI_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-10-07T03:04:18.898Z
+status: up
+code: 200
+responseTime: 576
+lastUpdated: 2024-10-07T03:17:13.439Z
 startTime: 2021-01-28T19:19:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
