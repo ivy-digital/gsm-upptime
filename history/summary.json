@@ -214,7 +214,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-10": 599,
+      "2024-12-10": 689,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
@@ -598,7 +598,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-10": 599,
+      "2024-12-10": 689,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
@@ -982,7 +982,7 @@
     "timeMonth": 186,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2024-12-10": 599,
+      "2024-12-10": 689,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
@@ -1424,7 +1424,7 @@
     "timeMonth": 0,
     "timeYear": 539,
     "dailyMinutesDown": {
-      "2024-12-10": 599,
+      "2024-12-10": 689,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
@@ -1801,14 +1801,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.81%",
     "uptimeMonth": "1.85%",
-    "uptimeYear": "42.07%",
+    "uptimeYear": "42.05%",
     "time": 428,
     "timeDay": 0,
     "timeWeek": 402,
     "timeMonth": 421,
     "timeYear": 431,
     "dailyMinutesDown": {
-      "2024-12-10": 599,
+      "2024-12-10": 690,
       "2024-12-09": 1440,
       "2024-12-08": 1431,
       "2024-12-07": 1440,
@@ -2028,11 +2028,11 @@
     "url": "$INTERMEDICI_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "i-n-t-e-r-m-e-d-i-c-i",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "90.29%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "90.28%",
     "uptimeYear": "98.54%",
     "time": 1217,
     "timeDay": 583,
@@ -2040,6 +2040,7 @@
     "timeMonth": 821,
     "timeYear": 1184,
     "dailyMinutesDown": {
+      "2024-12-10": 2,
       "2024-12-08": 25,
       "2024-11-30": 186,
       "2024-11-29": 1440,
@@ -2125,8 +2126,7 @@
       "2024-04-29": 16,
       "2024-04-27": 7,
       "2024-04-26": 11,
-      "2024-04-20": 17,
-      "2024-04-19": 10
+      "2024-04-20": 17
     }
   },
   {
@@ -2135,7 +2135,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "s-e-r-m-e-d-o-d-o-n-to",
     "status": "down",
-    "uptime": "52.52%",
+    "uptime": "52.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -2146,7 +2146,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-10": 599,
+      "2024-12-10": 690,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
