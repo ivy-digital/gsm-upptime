@@ -1,7 +1,7 @@
 url: $STA_TEREZA_URL
-status: down
-code: 500
-responseTime: 5043
-lastUpdated: 2024-12-11T04:39:29.574Z
+status: up
+code: 200
+responseTime: 324
+lastUpdated: 2024-12-11T07:09:05.813Z
 startTime: 2021-01-28T19:19:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
