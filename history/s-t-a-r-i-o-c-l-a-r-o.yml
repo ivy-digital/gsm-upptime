@@ -1,7 +1,7 @@
 url: $STA_RIOCLARO_URL
-status: up
-code: 200
-responseTime: 399
-lastUpdated: 2025-09-24T23:05:28.179Z
+status: down
+code: 504
+responseTime: 2255
+lastUpdated: 2025-09-25T20:48:32.182Z
 startTime: 2021-01-28T19:19:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
