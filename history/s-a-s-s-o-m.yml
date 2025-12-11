@@ -1,7 +1,7 @@
 url: $SASSOM_URL
-status: up
-code: 200
-responseTime: 844
-lastUpdated: 2025-12-10T23:07:02.651Z
+status: down
+code: 404
+responseTime: 622
+lastUpdated: 2025-12-11T21:31:16.447Z
 startTime: 2021-01-28T19:19:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
